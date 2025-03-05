@@ -1,6 +1,6 @@
 # Automation Testing Report – Securehands (Insurance-Based Company)
 
-* 1. Project Overview
+# Project Overview
 * Company Name: Securehands
 * Industry: Insurance
 * Testing Type: End-to-End Automation Testing
