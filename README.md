@@ -37,7 +37,8 @@
 * Dashboard Module – Ensuring proper analytics, reporting, and data visualization.
   
 # Test Execution Summary
-Module	Status	Remarks
+|Module	|Status	|Remarks |
+|-------|-------|--------|
 Login Module	✅ Passed	Secure authentication verified
 Lead Module	✅ Passed	Lead workflow working fine
 Prospect Module	✅ Passed	Leads converted to prospects successfully
