@@ -15,26 +15,28 @@
 # Objective
 * The objective of this automation testing was to validate the functionality, stability, and efficiency of Securehands’ CRM system by automating end-to-end workflows. The automation process ensured minimal manual intervention while identifying critical issues.
 
-3. Scope of Testing
-Master Modules
-Product Module – Validation of product management functionality.
-Document Type Module – Ensuring proper classification and handling of document types.
-Document Store Module – Verifying document storage, retrieval, and security.
-Functional Modules Tested
-Login Module – User authentication, session handling, and security checks.
-Lead Module – Lead creation, updates, and assignment tracking.
-Prospect Module – Conversion of leads into prospects and follow-up management.
-Contact Module – Storing and managing customer contact details.
-Quotation Module – Generating, modifying, and validating insurance quotations.
-Proposal Module – Managing insurance proposals and approvals.
-Customer Module – Managing customer profiles, policies, and interactions.
-Policy Register Module – Verifying policy issuance, tracking, and modifications.
-Renewal Due Module – Ensuring policy renewal alerts and processing.
-User Module – Managing user accounts, permissions, and roles.
-Role Module – Role-based access control and authorization testing.
-Kanban View Module – Functionality of the visual workflow management.
-Dashboard Module – Ensuring proper analytics, reporting, and data visualization.
-4. Test Execution Summary
+# Scope of Testing
+# Master Modules
+* Product Module – Validation of product management functionality.
+* Document Type Module – Ensuring proper classification and handling of document types.
+* Document Store Module – Verifying document storage, retrieval, and security.
+  
+# Functional Modules Tested
+* Login Module – User authentication, session handling, and security checks.
+* Lead Module – Lead creation, updates, and assignment tracking.
+* Prospect Module – Conversion of leads into prospects and follow-up management.
+* Contact Module – Storing and managing customer contact details.
+* Quotation Module – Generating, modifying, and validating insurance quotations.
+* Proposal Module – Managing insurance proposals and approvals.
+* Customer Module – Managing customer profiles, policies, and interactions.
+* Policy Register Module – Verifying policy issuance, tracking, and modifications.
+* Renewal Due Module – Ensuring policy renewal alerts and processing.
+* User Module – Managing user accounts, permissions, and roles.
+* Role Module – Role-based access control and authorization testing.
+* Kanban View Module – Functionality of the visual workflow management.
+* Dashboard Module – Ensuring proper analytics, reporting, and data visualization.
+  
+# Test Execution Summary
 Module	Status	Remarks
 Login Module	✅ Passed	Secure authentication verified
 Lead Module	✅ Passed	Lead workflow working fine
