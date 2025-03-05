@@ -1,6 +1,6 @@
 # CRM-Project-Automation-Testing
-Automation Testing Report – Securehands (Insurance-Based Company)
-1. Project Overview
+# Automation Testing Report – Securehands (Insurance-Based Company)
+* 1. Project Overview
 Company Name: Securehands
 Industry: Insurance
 Testing Type: End-to-End Automation Testing
