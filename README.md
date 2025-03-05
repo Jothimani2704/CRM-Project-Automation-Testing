@@ -1,10 +1,12 @@
 # Automation Testing Report – Securehands (Insurance-Based Company)
+
 * 1. Project Overview
-Company Name: Securehands
-Industry: Insurance
-Testing Type: End-to-End Automation Testing
-Tools & Frameworks Used:
-IDE: Visual Studio 2022
+* Company Name: Securehands
+* Industry: Insurance
+* Testing Type: End-to-End Automation Testing
+  
+# Tools & Frameworks Used:
+* IDE: Visual Studio 2022
 Programming Language: .NET (C#)
 Test Framework: NUnit, TestNG
 Automation Tool: Selenium
