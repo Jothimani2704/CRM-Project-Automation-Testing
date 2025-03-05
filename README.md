@@ -39,7 +39,7 @@
 # Test Execution Summary
 |Module	|Status	|Remarks |
 |-------|-------|--------|
-Login Module	✅ Passed	Secure authentication verified
+|Login Module	|✅ Passed	|Secure authentication verified
 Lead Module	✅ Passed	Lead workflow working fine
 Prospect Module	✅ Passed	Leads converted to prospects successfully
 Contact Module	✅ Passed	No issues found
