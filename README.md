@@ -54,16 +54,18 @@
 |Dashboard Module	|✅ Passed	|Data visualization accurate|
 
 # Defects Identified
-Bug 1: Policy updates are not reflecting in real-time in the Policy Register Module.
-Bug 2: Delayed renewal notifications in the Renewal Due Module.
-Bug 3: Minor UI inconsistencies in the Kanban View Module.
-6. Key Findings & Observations
-Core functionalities across all modules are stable, with exceptions in policy updates and renewal alerts.
-Role-based access control is functioning as expected.
-UI responsiveness is consistent across tested browsers, except for minor glitches in the Kanban View.
-Automation scripts improved efficiency by reducing manual test effort.
-7. Conclusion & Recommendations
-Fix the identified defects in policy updates and renewal alerts.
-Enhance real-time synchronization of policy records.
-Optimize UI components in the Kanban View for a better experience.
-Consider integrating automation into CI/CD pipelines for continuous validation.
+* Bug 1: Policy updates are not reflecting in real-time in the Policy Register Module.
+* Bug 2: Delayed renewal notifications in the Renewal Due Module.
+* Bug 3: Minor UI inconsistencies in the Kanban View Module.
+
+# Key Findings & Observations
+* Core functionalities across all modules are stable, with exceptions in policy updates and renewal alerts.
+* Role-based access control is functioning as expected.
+* UI responsiveness is consistent across tested browsers, except for minor glitches in the Kanban View.
+* Automation scripts improved efficiency by reducing manual test effort.
+  
+# Conclusion & Recommendations
+* Fix the identified defects in policy updates and renewal alerts.
+* Enhance real-time synchronization of policy records.
+* Optimize UI components in the Kanban View for a better experience.
+* Consider integrating automation into CI/CD pipelines for continuous validation.
