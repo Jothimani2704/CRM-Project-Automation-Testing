@@ -39,20 +39,21 @@
 # Test Execution Summary
 |Module	|Status	|Remarks |
 |-------|-------|--------|
-|Login Module	|✅ Passed	|Secure authentication verified
-Lead Module	✅ Passed	Lead workflow working fine
-Prospect Module	✅ Passed	Leads converted to prospects successfully
-Contact Module	✅ Passed	No issues found
-Quotation Module	✅ Passed	Quotes generated correctly
-Proposal Module	✅ Passed	Functioning as expected
-Customer Module	✅ Passed	No issues found
-Policy Register Module	⚠️ Issues Found	Some policy updates not reflecting
-Renewal Due Module	⚠️ Issues Found	Delayed renewal notifications observed
-User Module	✅ Passed	No issues found
-Role Module	✅ Passed	Permissions working correctly
-Kanban View Module	✅ Passed	UI and workflow validated
-Dashboard Module	✅ Passed	Data visualization accurate
-5. Defects Identified
+|Login Module	|✅ Passed	|Secure authentication verified|
+|Lead Module	|✅ Passed	|Lead workflow working fine|
+|Prospect Module	|✅ Passed	|Leads converted to prospects successfully|
+|Contact Module	|✅ Passed	|No issues found|
+|Quotation Module	|✅ Passed	|Quotes generated correctly|
+|Proposal Module	|✅ Passed	|Functioning as expected|
+|Customer Module	|✅ Passed	|No issues found|
+|Policy Register Module	|⚠️ Issues Found	|Some policy updates not reflecting|
+|Renewal Due Module	|⚠️ Issues Found	|Delayed renewal notifications observed|
+|User Module	|✅ Passed	|No issues found|
+|Role Module	|✅ Passed	|Permissions working correctly|
+|Kanban View Module	|✅ Passed	|UI and workflow validated|
+|Dashboard Module	|✅ Passed	|Data visualization accurate|
+
+# Defects Identified
 Bug 1: Policy updates are not reflecting in real-time in the Policy Register Module.
 Bug 2: Delayed renewal notifications in the Renewal Due Module.
 Bug 3: Minor UI inconsistencies in the Kanban View Module.
