@@ -7,12 +7,13 @@
   
 # Tools & Frameworks Used:
 * IDE: Visual Studio 2022
-Programming Language: .NET (C#)
-Test Framework: NUnit, TestNG
-Automation Tool: Selenium
-Design Pattern: Page Object Model (POM)
-2. Objective
-The objective of this automation testing was to validate the functionality, stability, and efficiency of Securehands’ CRM system by automating end-to-end workflows. The automation process ensured minimal manual intervention while identifying critical issues.
+* Programming Language: .NET (C#)
+* Test Framework: NUnit, TestNG
+* Automation Tool: Selenium
+* Design Pattern: Page Object Model (POM)
+  
+# Objective
+* The objective of this automation testing was to validate the functionality, stability, and efficiency of Securehands’ CRM system by automating end-to-end workflows. The automation process ensured minimal manual intervention while identifying critical issues.
 
 3. Scope of Testing
 Master Modules
