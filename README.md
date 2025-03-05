@@ -11,6 +11,9 @@
 * Test Framework: NUnit
 * Automation Tool: Selenium
 * Design Pattern: Page Object Model (POM)
+
+# Browsers Tested:
+* Chrome
   
 # Objective
 * The objective of this automation testing was to validate the functionality, stability, and efficiency of Securehands’ CRM system by automating end-to-end workflows. The automation process ensured minimal manual intervention while identifying critical issues.
