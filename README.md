@@ -8,7 +8,7 @@
 # Tools & Frameworks Used:
 * IDE: Visual Studio 2022
 * Programming Language: .NET (C#)
-* Test Framework: NUnit, TestNG
+* Test Framework: NUnit
 * Automation Tool: Selenium
 * Design Pattern: Page Object Model (POM)
   
